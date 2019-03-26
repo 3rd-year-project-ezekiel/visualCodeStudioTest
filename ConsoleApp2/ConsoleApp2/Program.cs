@@ -13,6 +13,8 @@ namespace ConsoleApp2
             Console.WriteLine("hey you");
             console.WriteLine("Yes you\nwhat do you want?");
             // this could get fun
+            
+            //bru im here
         }
     }
 }
