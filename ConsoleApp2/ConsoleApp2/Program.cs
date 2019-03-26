@@ -15,8 +15,7 @@ namespace ConsoleApp2
             // this could get fun
 
             // now what
-            
-            //bru im here
+            // oh dear
         }
     }
 }
