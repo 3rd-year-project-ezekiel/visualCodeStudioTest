@@ -25,9 +25,15 @@ namespace ConsoleApp2
             // yes it is
         }
     }
+
+    for (int i = 0; i<length; i++)
+			{
+        
+			}
 }
 // so pieter werk hier nou
 // so this is Jan coding on stuff
 // im gonna say this again
 
 // hey now
+// im a rockstar
