@@ -8,5 +8,6 @@ namespace ConsoleApp2
 {
     class ThisIsAClasscs
     {
+        // some here too
     }
 }
