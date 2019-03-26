@@ -26,6 +26,7 @@ namespace ConsoleApp2
         }
     }
 }
-
+// so pieter werk hier nou
 // so this is Jan coding on stuff
 // im gonna say this again
+
