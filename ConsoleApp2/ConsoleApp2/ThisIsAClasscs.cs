@@ -8,5 +8,7 @@ namespace ConsoleApp2
 {
     class ThisIsAClasscs
     {
+        // sommer hier ook
     }
+    var string jan = "hello";
 }
