@@ -11,8 +11,10 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("hey you");
-            console.WriteLine("Yes you\nwhat do you want?");
+            Console.WriteLine("Yes you\nwhat do you want?");
             // this could get fun
+
+            // now what
         }
     }
 }
